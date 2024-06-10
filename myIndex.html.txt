@@ -3,6 +3,7 @@
 <head>
 <title>Hello World!</title>
 <p>can you see the changes?</p>
+<p>check this one </P>
 <link rel="stylesheet" href="bluestyle.css">
 </head>
 <body>
