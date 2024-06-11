@@ -5,4 +5,6 @@ background-color: lightblue;
 h1 {
 color: navy;
 margin-left: 20px;
+box-siziing: rounded;
+background : blur;
 }`
